@@ -1,4 +1,4 @@
-<h1 align="center">Senior Blockchain Smart Contract and Dapp Developer and Supporter</h1>
+<h1 align="center">Senior Blockchain Smart Contract, Dapp Developer and Supporter</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fstar1129&label=Profile%20views&color=0e75b6&style=flat" alt="fstar1129" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fstar1129" alt="fstar1129" /></a> </p>
